@@ -13,3 +13,5 @@ Technical Stack
 
 * Data Processing & Analysis: Calculated fields and refined data manipulation.
 * Enhanced Interactivity: Engaging user-driven elements for customized data exploration.
+
+![Power_BI_Dashboard](https://github.com/user-attachments/assets/41e181c1-8c20-476a-b25c-4dd5b939b52b)
